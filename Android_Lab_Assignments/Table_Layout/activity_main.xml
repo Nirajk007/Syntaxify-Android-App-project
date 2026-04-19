@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:padding="20dp">
+
+
+    <TableRow>
+        <TextView
+            android:text="Table Layout"
+            android:textSize="22sp"
+            android:layout_span="2"
+            android:gravity="center"/>
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="Time : 9:40 AM"
+            android:layout_span="2"
+            android:gravity="center"/>
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="Name : "/>
+
+        <EditText
+            android:id="@+id/etName"
+            android:hint="Enter Name"/>
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="Address: "/>
+
+        <EditText
+            android:id="@+id/etAddress"
+            android:hint="Enter Address"/>
+    </TableRow>
+
+
+    <TableRow android:layout_width="312dp">
+
+        <TextView android:text="Rating : " />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:numStars="5"
+            android:stepSize="1.0" />
+    </TableRow>
+
+
+    <TableRow>
+        <Button
+            android:id="@+id/btnSubmit"
+            android:text="Submit"
+            android:layout_span="2"
+            android:gravity="center"/>
+    </TableRow>
+
+</TableLayout>
