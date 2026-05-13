@@ -1,4 +1,4 @@
-package com.example.intentdemo; // Replace with your actual package name
+package com.example.intentdemo; 
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
