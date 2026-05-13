@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Options Menu Demonstration"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click the three dots in the top right corner."
+        android:textSize="16sp"
+        android:textColor="#555555"
+        android:layout_marginBottom="32dp"/>
+
+    <TextView
+        android:id="@+id/textMenuResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Waiting for selection..."
+        android:textSize="20sp"
+        android:textColor="#00695C"
+        android:textAlignment="center"
+        android:padding="16dp"
+        android:background="#E0F2F1"/>
+
+</LinearLayout>
