@@ -1,4 +1,4 @@
-package com.example.uicontrolsdemo; // IMPORTANT: Replace with YOUR actual package name!
+package com.example.uicontrolsdemo; 
 
 import androidx.appcompat.app.AppCompatActivity;
 
