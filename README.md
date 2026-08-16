@@ -12,6 +12,6 @@ An Android application designed to help developers quickly find and save program
 
 This project helped me strengthen my Android development, Java, UI design, local database management, and application architecture skills.
 
-🔗 GitHub Repository: [Add your GitHub repository link]
+🔗 GitHub Repository:https://github.com/Nirajk007/Syntaxify-Android-App-project
 
 #AndroidDevelopment #Java #AndroidStudio #SQLite #GitHub #SoftwareDevelopment #MobileAppDevelopment #JavaDeveloper #CSE #StudentDeveloper
