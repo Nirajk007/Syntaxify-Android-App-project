@@ -1,5 +1,5 @@
 # Syntaxify-Android-App-project
-Syntaxify — Pocket Rulebook for Developers
+Syntaxify is an Android-based pocket rulebook that helps developers quickly access programming syntax and code snippets anytime, anywhere.
 
 An Android application designed to help developers quickly find and save programming syntax and code snippets in one place.
 
